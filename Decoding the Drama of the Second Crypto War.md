@@ -1,4 +1,4 @@
-# 解读第二次加密战争的戏剧
+# 解读第二次加密战争
 
 ![secondcw](img/secondcw.jpg)
 
