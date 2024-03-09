@@ -1,4 +1,4 @@
-# 解读第一次加密战争的戏剧
+# 解读第一次加密战争
 
 ![firstcw](img/firstcw.jpg)
 
