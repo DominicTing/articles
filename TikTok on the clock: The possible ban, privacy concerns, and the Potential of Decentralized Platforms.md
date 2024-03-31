@@ -88,7 +88,7 @@ Mastodon 是一个与 Twitter 非常相似的社交平台，但其结构强调�
 
 这种结构允许用户加入符合其兴趣、价值观和所需隐私级别的群组。这是一种可定制的体验，支持高级隐私设置，您可以在其中调整每个出版物的隐私级别。
 
-![Mastodon](img/Mastodon.png)
+![Mastodon](img/mastodon.png)
 
 
 ## 展望未来
