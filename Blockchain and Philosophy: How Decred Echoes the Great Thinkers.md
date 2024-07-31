@@ -1,4 +1,4 @@
-# Decred ：践行伟大思想家之路
+# 践行伟大思想家之路 - Decred 
 
 ![Fitness](img/Fitness--3-.png)
 
